@@ -1,2 +1,6 @@
 
 Welcome C++ and Java
+python
+c
+java script
+node js
